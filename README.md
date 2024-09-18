@@ -12,7 +12,8 @@ https://www.figma.com/design/jgrPInxXnoblByK2QaDEa5/%D8%B1%D9%90%D9%83%D8%A7%D8%
 
 UML :
 
-[REKAZ.drawio.pdf](https://github.com/user-attachments/files/17038626/REKAZ.drawio.pdf)
+![Uploading Screenshot 1446-03-15 at 8.08.27 AM.png…]()
+
 
 
 UseCase :
