@@ -12,7 +12,8 @@ https://www.figma.com/design/jgrPInxXnoblByK2QaDEa5/%D8%B1%D9%90%D9%83%D8%A7%D8%
 
 UML :
 
-![Uploading Screenshot 1446-03-15 at 8.08.27 AM.png…]()
+
+<img width="977" alt="Screenshot 1446-03-15 at 8 08 27 AM" src="https://github.com/user-attachments/assets/c2dd141f-e1b1-4602-aab0-9339fc61ce2f">
 
 
 
