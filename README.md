@@ -1,6 +1,6 @@
 ![تصميم بدون عنوان (1)](https://github.com/user-attachments/assets/8ea79f2c-78d0-41d1-9929-980fdcfa9fa7)
 
-Name : Sulaiman Alodeeb , Phone : 0552653570 , Project Name : REKAZ
+*REKAZ*
 
 Description : This platform streamlines real estate investment management by handling properties, investor relations, contracts, and subscriptions. It also supports evaluations, ratings, user complaints, bids, and consultations, offering a comprehensive solution for efficient investment management.
 
